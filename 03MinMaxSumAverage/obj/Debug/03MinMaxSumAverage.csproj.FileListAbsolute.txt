@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.exe
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.pdb

@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\04 Print a Deck of 52 Cards\bin\Debug\04 Print a Deck of 52 Cards.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\04 Print a Deck of 52 Cards\bin\Debug\04 Print a Deck of 52 Cards.exe
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\04 Print a Deck of 52 Cards\bin\Debug\04 Print a Deck of 52 Cards.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\04 Print a Deck of 52 Cards\obj\Debug\04 Print a Deck of 52 Cards.exe
+c:\users\goshev\documents\visual studio 2013\Projects\Loops\04 Print a Deck of 52 Cards\obj\Debug\04 Print a Deck of 52 Cards.pdb
